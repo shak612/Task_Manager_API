@@ -1,7 +1,5 @@
 # Task_Manager_API
 
-Brief description or introduction to your project.
-
 ## Table of Contents
 
 - [Features](#features)

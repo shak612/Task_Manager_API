@@ -6,6 +6,7 @@ Brief description or introduction to your project.
 
 - [Features](#features)
 - [Installation](#installation)
+- [To Start Server](#startServer)
 
 ## Features
 
@@ -20,5 +21,6 @@ Brief description or introduction to your project.
 ## Installation
 npm install
 
-Run Command to start the server:- 
-nodemon
+## To Start Server
+- cd src
+- run this command:- nodemon
